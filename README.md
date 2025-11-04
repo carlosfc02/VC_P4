@@ -34,9 +34,9 @@ El primer paso fue entrenar un modelo YOLO (partiendo de `yolo11n.pt`) para dete
 
 El entrenamiento generó las siguientes métricas y matrices de confusión:
 
-![Resultados del entrenamiento](imagenes_readme/results.png)
-![Matriz de Confusión](imagenes_readme/confusion_matrix.png)
-![Matriz de Confusión Normalizada](imagenes_readme/confusion_matrix_normalized.png)
+![Resultados del entrenamiento](runs/detect/train6/results.png)
+![Matriz de Confusión](runs/detect/train6/confusion_matrix.png)
+![Matriz de Confusión Normalizada](runs/detect/train6/confusion_matrix_normalized.png)
 
 ---
 
